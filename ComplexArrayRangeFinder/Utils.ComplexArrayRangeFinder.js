@@ -1,4 +1,5 @@
 var Utils = Utils || {};
+
 Utils.FindArrayRange = {
 	query: {
 		index: 0,

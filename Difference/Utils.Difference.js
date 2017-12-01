@@ -1,3 +1,5 @@
+var Utils = Utils || {};
+
 /**
  * Deep diff between two object, using lodash
  * @param  {Object} object Object compared
